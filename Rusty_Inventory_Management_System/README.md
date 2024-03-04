@@ -7,7 +7,6 @@ The Rusty Store Inventory Management System is a command-line application design
 - **Inventory Management:** Add, edit, and delete products from the inventory.
 - **Reporting:** Generate reports displaying the store's inventory.
 - **Error Handling:** Robust error handling for invalid inputs and other errors.
-- **Security:** Basic authentication to prevent unauthorized access.
 - **User Interface:** Clear and intuitive text-based user interface.
 
 ## Installation
@@ -61,14 +60,4 @@ The project includes a suite of test cases to ensure the correctness of the code
 ```bash
 cargo test
 
-## Contributing
-Contributions to the Rusty Store Inventory Management System are welcome! To contribute, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Push to your fork and submit a pull request to the main repository.
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
