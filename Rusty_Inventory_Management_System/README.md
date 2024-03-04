@@ -1,4 +1,4 @@
-Rusty Store Inventory Management System
+#Rusty Store Inventory Management System
 Overview
 The Rusty Store Inventory Management System is a command-line application designed for small retail stores to manage their inventory efficiently. This system allows store managers to add, edit, and delete products from the inventory, generate reports, and perform basic authentication for security.
 
